@@ -7,7 +7,7 @@ Whether you're looking for thrilling novels, inspiring biographies, insightful s
 
 
 🏠 Home Page
-Welcome to [Your Store Name]!
+Welcome to My Online Book Store!
 Your one-stop shop for textbooks, reference materials, and study guides across various engineering branches.
 Explore a wide range of books for CSE, ECE, EEE, Civil, and more.
 Find the knowledge you need — faster, easier, smarter.
