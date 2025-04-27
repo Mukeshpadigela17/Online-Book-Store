@@ -1,0 +1,2 @@
+step1: Right click on main.html file
+Step2: Open with -> internet explorer,mozilla,chrome etc..)

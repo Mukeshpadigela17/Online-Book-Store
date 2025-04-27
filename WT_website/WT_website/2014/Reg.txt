@@ -1,0 +1,125 @@
+
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body bgcolor="AliceBlue">
+<center><table border="2" bordercolor="pink" height="80%"width="50%" bgcolor="MediumPurple" align="center">
+<tr>
+<td>
+<form name="Registration"method="post" action="login.html"><br>
+<center><u><basefont size="9"font color="pink">Registration</basefont size></u></center><br><br>
+<p><strong>Username:</strong>
+<input type="text" name="Uname" size="25"></p><br>
+<p><strong>Password:</strong>
+<input type="password" name="pw" size="18"></p><br>
+<p><strong>Re-Enter Password:</strong>
+<input type="password" name="repw" size="18"></p><br>
+<p><strong>E-mail id:</strong>
+<input type="text" name="E- mail id" value="" size="35"></p><br>
+<p><strong>Phone No:</strong>
+<input type="text" name="phno" size="16"></p><br>
+
+<p><strong>Gender:</strong>
+<input type="radio" name="male">Male
+<input type="radio" name="Female"value="Female">Female
+</p><br>
+<p><strong>Date Of Birth:</strong>
+<select name="DoB" value="">
+<option name="d0" value="">DD
+<option name="d1" value="">01
+<option name="d2" value="">02
+<option name="d3" value="">03
+<option name="d4" value="">04
+<option name="d5" value="">05
+<option name="d6" value="">06
+<option name="d7" value="">07
+<option name="d8" value="">08
+<option name="d9" value="">09
+<option name="d10" value="">10
+<option name="d11" value="">11
+<option name="d12" value="">12
+<option name="d13" value="">13
+<option name="d14" value="">14
+<option name="d15" value="">15
+<option name="d16" value="">16
+<option name="d17" value="">17
+<option name="d18" value="">18
+<option name="d19" value="">19
+<option name="d20" value="">20
+<option name="d21" value="">21
+<option name="d22" value="">22
+<option name="d23" value="">23
+<option name="d24" value="">24
+<option name="d25" value="">25
+<option name="d26" value="">26
+<option name="d27" value="">27
+<option name="d28" value="">28
+<option name="d29" value="">29
+<option name="d30" value="">30
+<option name="d31" value="">31
+</select>
+<select name="M" value="">
+<option name="m0" value="">MM
+<option name="m1" value="">Jan
+<option name="m2" value="">Feb
+<option name="m3" value="">Mar
+<option name="m4" value="">Aprl
+<option name="m5" value="">May
+<option name="m6" value="">Jun
+<option name="m7" value="">Jul
+<option name="m8" value="">Aug
+<option name="m9" value="">Sep
+<option name="m10" value="">Oct
+<option name="m11" value="">Nov
+<option name="m12" value="">Dec
+</select>
+<select name="Year" value="">
+<option name="y0" value="">YYYY
+<option name="y1" value="">1992
+<option name="y2" value="">1991
+<option name="y3" value="">1990
+<option name="y4" value="">1989
+<option name="y5" value="">1988
+<option name="y6" value="">1987
+<option name="y7" value="">1986
+<option name="y8" value="">1985
+<option name="y9" value="">1984
+<option name="y10" value="">1983
+<option name="y11" value="">1982
+<option name="y12" value="">1981
+</select></p>
+
+<p><strong>Qualification:</strong>
+<select name="qualf" value="">
+<option name="q0" value="">Select
+<option name="q1" value="">B-Tech
+<option name="q2" value="">B.E
+<option name="q3" value="">M-Tech
+<option name="q4" value="">M.C.A
+<option name="q5" value="">M.B.A
+<option name="q6" value="">M.A
+</select>
+</p><br>
+<p><strong>Languages Known:</strong><br>
+<input type="checkbox" name="c1" value="">Telugu<br>
+<input type="checkbox" name="c2" value="">English<br>
+<input type="checkbox" name="c3" value="">Hindi<br>
+<input type="checkbox" name="c4" value="">Tamil
+</p><br>
+<p><strong>Address:</strong><br>
+<textarea rows="8" cols="22">
+</textarea></p><br>
+
+<p><strong>Intrests:</strong><br>
+<input type="checkbox" name="c1" value="">Games<br>
+<input type="checkbox" name="c2" value="">Reading Books<br>
+<input type="checkbox" name="c3" value="">Movies<br>
+<input type="checkbox" name="c4" value="">Music<br>
+<input type="checkbox" name="c5" value="">Browsing</p><br><br>
+<center><input type="submit" name="send"value="Submit" size="25">
+<input type="Reset" name="send" value="Reset" size="25"></center>
+</form>
+</center>
+</body>
+</html>

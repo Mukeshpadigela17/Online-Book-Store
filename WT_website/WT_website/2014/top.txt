@@ -1,0 +1,29 @@
+
+<html>
+<head>
+<title>top</title>
+</head>
+<body>
+<table border="0" height="13%" width="100%" bgcolor="00CCFF">
+<tr>
+<td rowspan="1" border="0">
+<center><img src="h:/img.jpg"></img></center>
+<td colspan="4"><h1 align="center"><b><u><basefont size="15" font color="midnightblue">ONLINE BOOK STORAGE</font></u></b></h1>
+<center><i><p><basefont size="4">**Collection of e-books on the web**</font></p></i></center> 
+</tr>
+<tr>
+<th bgcolor="moccasin">
+<a href="home.html" target="3"><font color="DarkBlue">Home</font></a> 
+<th bgcolor="moccasin">
+<a href="login.html" target="3"><font color="Navy">Login</font></a>
+<th bgcolor="moccasin">
+<a href="reg.html" target="3"><font color="Navy">Registration</font></a>
+<th bgcolor="moccasin">
+<a href="cata.html" target="3"><font color="Navy">Catalogue</font></a>
+<th bgcolor="moccasin">
+<a href="cart.html" target="3"><font color="Navy">Cart</font></a>
+</tr>
+</table>
+<marquee direction="right" bgcolor="pink" behavioue="slide" loop="infinity"><strong>www.bookstorage.com</strong></marquee>
+</body>
+</html>

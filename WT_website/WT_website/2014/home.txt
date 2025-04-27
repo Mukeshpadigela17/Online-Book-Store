@@ -1,0 +1,25 @@
+
+<html>
+<head>
+<title> home</title>
+</head>
+<body>
+<center><h1> Online Bookstorage</h1></center>
+<b>Online bookstorage.com contains links to thousands of free online technical books. 
+Which Include core <i>computer science Engineering, Electronics Engineering,Electrical Engineering and 
+Civil Engineering books, Technical books and many more.</i> You are welcome to follow the
+following links for the free books tour</b>
+<h2>Bookstores Today:</h2>
+Bookstore is the used bookstore or second-hand bookshop which buys and sells
+ used and out-of-print books in a variety of conditions. A range of titles are available in used bookstores, 
+including in print and out of print books. Book collectors tend to frequent used book stores. Large online bookstores offer used books for sale, too. 
+Individuals wishing to sell their used books using online bookstores agree to terms outlined by the bookstore(s): for example,
+ paying the online bookstore(s) a predetermined commission once the books have sold.
+Bookstores may be either part of a chain, or local independent bookstores.
+Bookstores can range in size offering from several hundred to several hundred thousands of titles. They may be brick-and-mortar stores or internet only stores or a combination of both.
+ Sizes for the larger bookstores exceed half a million titles.
+Bookstores often sell other printed matter besides books, such as newspapers, magazines and maps; additional product lines may vary enormously, particularly among independent bookstores. 
+Colleges and universities often have their own student bookstore on campus that focuses on providing course textbooks and scholarly books, although some on-campus bookstores are owned by large chains such as WHSmith or Waterstone's in the United Kingdom, or Barnes & Noble College Booksellers in the United States, which is a private firm controlled by the chair of Barnes & Noble
+
+</body>
+</html>

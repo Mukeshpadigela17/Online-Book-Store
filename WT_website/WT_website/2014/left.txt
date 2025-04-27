@@ -1,0 +1,14 @@
+
+<html>
+<head>
+<title>left</title>
+</head>
+<body bgcolor="CornflowerBlue">
+<ul>
+<li><a href="cse.html" target="3"> <basefont size="6" font color="Snow  ">C.S.E</font><br><br>
+<li><a href="eee.html" target="3"><basefont size="6" font color="Snow  ">E.E.E</font><br><br>
+<li><a href="ece.html" target="3"><basefont size="6" font color="Snow ">E.C.E</font><br><br>
+<li><a href="civil.html" target="3"><basefont size="6" font color="Snow  ">CIVIL</font>
+</ul>
+</body>
+</html>
